@@ -48,8 +48,9 @@ This repository contains the implementation of the Matching Chunked Search (MCS)
 ### **How to Compile**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<MCS_Algorithm_Text_Matching>.git
-   cd <your-repo-name>
+   git clone https://github.com/Marysoulka/MCS_Algorithm_Text_Matching.git
+   cd MCS_Algorithm_Text_Matching
+
    ```
 2. Compile the code:
    ```bash
